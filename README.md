@@ -69,4 +69,4 @@ enviar a branch 'feature-ia-inimigo' para o GitHub. Qual comando você utiliza
 para realizar o push dessa branch e, ao mesmo tempo, configurar o
 rastreamento ('upstream') para essa branch no repositório remoto?
 
-Resposta: você vai usar "git push (link do SSH)" e vai aceitar pull request.
+Resposta: você vai usar "git push (link do SSH)" mas antes vc vai dar um commit.
